@@ -1,8 +1,4 @@
-# Hi there 👋
+**Hi, I'm Jeya!**
 
-
-**jeyadosanjh/jeyadosanjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🐢 I’m currently learning data analytics
+- 🐢 I’m currently learning _data analytics_
 - 📫 How to reach me: jeya.dosanjh13@gmail.com
